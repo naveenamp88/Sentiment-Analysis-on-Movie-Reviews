@@ -4,7 +4,9 @@ This project uses machine learning to perform sentiment analysis on movie review
 
 ## Dataset
 
-We use the IMDb movie reviews dataset, which contains 50,000 reviews labeled as positive or negative.
+We use the IMDb movie reviews dataset, which contains 50,000 reviews labeled as positive or negative. 
+
+**Link**: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download 
 
 ## Steps
 
